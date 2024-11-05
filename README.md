@@ -1,0 +1,2 @@
+# python25_ev_car_sales_echarts_deeplearning
+计算机毕业设计Python+大模型新能源汽车销量预测 汽车销量分析可视化 汽车爬虫 深度学习 ARIMA差分自回归移动平均算法 决策树回归模型 Ridge岭回归预测模型
